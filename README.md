@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on full-stack web and Android app development projects
 - 🌱 Learning more about DevOps, TypeScript, and scalable architectures
 - 💬 Ask me about React, Node.js, Express, MongoDB, Flutter & Firebase
-- 📫 Reach me at *Maniram273155@gamail.com*
+- 📫 Reach me at *Maniram273155@gmail.com*
 - ⚡ Fun fact: I love blending great UI with powerful backend logic
 
 ## 🛠 Tech Stack
