@@ -1,11 +1,10 @@
 # 💫 Hi 👋, I'm Maniram Chauhan
-**Full Stack MERN Developer ||  Data Analytics || leedcode DSA 100+ question solved  **
+** MERN Stack  Developer ||  Data Analytics || leedcode DSA 100+ question solved  **
 
 Email Me 👉 ✉️ **maniran273255@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** infoseek Software system 
-- 🌱 **I’m currently learning:** Mern Stack developer 
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🔭 **I’m currently working on:** infoseek Software systems 
+- 🌱 **I’m currently learning:** Mern Stack developer
 - 🤔 **I’m looking for help with:** Sigma GPT Using Opern AI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** maniram273155@gmail.com
@@ -26,19 +25,13 @@ Email Me 👉 ✉️ **maniran273255@gmail.com** For Collaboration/Project or An
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Maniramrajputt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Maniramrajputt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Maniramrajputt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maniramrajputt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Maniramrajputt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maniram chauhan) 
+ 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
